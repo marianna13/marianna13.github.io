@@ -7,7 +7,7 @@
 [Image Quality Enhancement with Neural Network ](https://github.com/marianna13/Notebooks/blob/master/CNN%20Improve%20Image%20Quality.ipynb)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[HeatPy is the Python package for simulating heat](https://github.com/marianna13/heatpy)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 ---
 [Visualization of Hydrogen-like atoms](https://github.com/marianna13/Notebooks/blob/master/Hydrogen.ipynb)
