@@ -16,6 +16,7 @@
 [Quantum Encryption with Python and ProjectQ](https://github.com/marianna13/Notebooks/blob/master/Quantum_Encryption.ipynb)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 ---
+
 [Predict Pulsar Stars with XGBoost](https://github.com/marianna13/Notebooks/blob/master/Quantum_Encryption.ipynb)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
