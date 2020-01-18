@@ -5,7 +5,7 @@
 ### My Projects
 -----------------------------------------------------------------------------------
 
-#[Image Quality Enhancement with Neural Network ](https://github.com/marianna13/Notebooks/blob/master/CNN%20Improve%20Image%20Quality.ipynb)
+[#Image Quality Enhancement with Neural Network ](https://github.com/marianna13/Notebooks/blob/master/CNN%20Improve%20Image%20Quality.ipynb)
 
 <img src="images/CNN.jpg" width="300" height="300" />
 -----------------------------------------------------------------------------------
