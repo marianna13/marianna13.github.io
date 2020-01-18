@@ -3,7 +3,7 @@ logo: /images/logo.jpg # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Hello! My name is Marianna and this is my portfolio.
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/marianna-nezhurina-957848145/">View My LinkedIn Profile</a> 
 
 theme: jekyll-theme-minimal
 
