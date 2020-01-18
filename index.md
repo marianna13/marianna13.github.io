@@ -8,7 +8,7 @@
 <img src="images/CNN.jpg?raw=true"/>
 ---
 [HeatPy is the Python package for simulating heat](https://github.com/marianna13/heatpy)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/dummy_thumbnail.jpg?raw=false"/>
 ---
 [Visualization of Hydrogen-like atoms](https://github.com/marianna13/Notebooks/blob/master/Hydrogen.ipynb)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
