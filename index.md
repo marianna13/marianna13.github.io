@@ -18,7 +18,8 @@
 ---
 
 [Predict Pulsar Stars with XGBoost](https://github.com/marianna13/Notebooks/blob/master/Quantum_Encryption.ipynb)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/pulsar.jpg" width="300" height="300" />
+---
 
 
 
