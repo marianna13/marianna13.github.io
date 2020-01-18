@@ -1,8 +1,10 @@
 title: Marianna Nezhurina # your name (or website title) here
 logo: "/images/20200112_151931.jpg?raw=true" # your photo (or logo) here
-description: # your text below (remove <br> elements if you don't need line breaks)
- <br><br>Hi! I'm Marianna and this is my Portfolio.
-<br><br>
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  Hello! My name is Marianna and this is my personal website. I am Physics undergraduate who likes science, programming, machine learning, languages and to apply my knowledge in creation of something interesting!
+  Here you can find examples of my work.
+  Hello! My name is Marianna and this is my personal website. I am Physics undergraduate who likes science, programming, machine learning, languages and to apply my knowledge in creation of something interesting. Here you can find examples of my work.
+  <br><br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
 
 theme: jekyll-theme-minimal
