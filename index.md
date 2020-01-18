@@ -5,7 +5,7 @@
 ### My Projects
 
 [Image Quality Enhancement with Neural Network ](https://github.com/marianna13/Notebooks/blob/master/CNN%20Improve%20Image%20Quality.ipynb)
-<img src="images/CNN.jpg?raw=true"width="250" height="250"/>
+<img src="images/CNN.jpg" width="250" height="250" />
 ---
 [HeatPy is the Python package for simulating heat](https://github.com/marianna13/heatpy)
 <img src="images/dummy_thumbnail.jpg?raw=false"/>
