@@ -5,27 +5,11 @@
 ### My Projects
 -----------------------------------------------------------------------------------
 
-[Image Quality Enhancement with Neural Network ](https://github.com/marianna13/Notebooks/blob/master/CNN%20Improve%20Image%20Quality.ipynb)
+[Analysis of the World database ](https://github.com/marianna13/sql-world-analysis)
 
-<img src="images/CNN.jpg" width="300" height="300" />
+![world](https://pbs.twimg.com/profile_images/587949417577066499/3uCD4xxY_400x400.jpg)
 -----------------------------------------------------------------------------------
 
-[HeatPy is the Python package for simulating heat](https://github.com/marianna13/heatpy)
-
-<img src="images/heatpy.png" width="300" height="300" />
------------------------------------------------------------------------------------
-
-
-[Visualization of Hydrogen-like atoms](https://github.com/marianna13/Notebooks/blob/master/Hydrogen.ipynb)
-
-<img src="images/hydrogen.png" width="300" height="300" />
------------------------------------------------------------------------------------
-
-
-[Quantum Encryption with Python and ProjectQ](https://github.com/marianna13/Notebooks/blob/master/Quantum_Encryption.ipynb)
-
-<img src="images/quantum.png" width="300" height="300" />
------------------------------------------------------------------------------------
 
 
 [Predict Pulsar Stars with XGBoost](https://github.com/marianna13/Notebooks/blob/master/Pulsar_Stars.ipynb)
