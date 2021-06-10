@@ -1,9 +1,11 @@
-title: Marianna Nezhurina # your name (or website title) here
-logo: /images/logo.jpg # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
+title: Marianna Nezhurina
+logo: /images/logo.jpg
+description: > 
+   <br><br>
   Hello! My name is Marianna and this is my portfolio.
   <br><br>
   <a href="https://www.linkedin.com/in/marianna-nezhurina-957848145/">View My LinkedIn Profile</a> 
+   <br><br>
 
 theme: jekyll-theme-minimal
 
